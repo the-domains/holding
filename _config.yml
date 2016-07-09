@@ -1,0 +1,14 @@
+layout_spectrum: 0.1405849342700094
+typography_spectrum: 0.9154942794702947
+color:
+  brandStrength: 0.17132662259973586
+  lightness: 0.25394430570304394
+  saturation: 0.5270600381772965
+  rhythmicContrast: 0.8504663952626288
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Holding
